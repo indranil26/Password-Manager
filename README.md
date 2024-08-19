@@ -1,0 +1,2 @@
+# Password-Manager
+This is a Password Manager project where you can add, edit, delete and copy passwords which is then shown in tabular form.
